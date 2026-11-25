@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: d97f4b850a3614760970ad708b5fbe78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3477271458229508028
+    second: blue_armor_sprite_sheet_0
+  - first:
+      213: 1574482926367178996
+    second: blue_armor_sprite_sheet_1
+  - first:
+      213: -9152197329765957909
+    second: blue_armor_sprite_sheet_2
+  - first:
+      213: -6494563447637974043
+    second: blue_armor_sprite_sheet_3
+  - first:
+      213: 9035122589563965582
+    second: blue_armor_sprite_sheet_4
+  - first:
+      213: 8267028090976571275
+    second: blue_armor_sprite_sheet_5
+  - first:
+      213: 5421976801883206427
+    second: blue_armor_sprite_sheet_6
+  - first:
+      213: 5742896531525233652
+    second: blue_armor_sprite_sheet_7
+  - first:
+      213: 4705382013606198246
+    second: blue_armor_sprite_sheet_8
+  - first:
+      213: -1354922403847700824
+    second: blue_armor_sprite_sheet_9
+  - first:
+      213: -2142176862471235866
+    second: blue_armor_sprite_sheet_10
+  - first:
+      213: -4723505990663631166
+    second: blue_armor_sprite_sheet_11
+  - first:
+      213: 8158532937999303777
+    second: blue_armor_sprite_sheet_12
+  - first:
+      213: 7306213259647620847
+    second: blue_armor_sprite_sheet_13
+  - first:
+      213: 1879476681122861394
+    second: blue_armor_sprite_sheet_14
+  - first:
+      213: -2790536645890466704
+    second: blue_armor_sprite_sheet_15
+  - first:
+      213: -1363741368910698232
+    second: blue_armor_sprite_sheet_16
+  - first:
+      213: 2385018937525870708
+    second: blue_armor_sprite_sheet_17
+  - first:
+      213: -571133309060508820
+    second: blue_armor_sprite_sheet_18
+  - first:
+      213: 5406638963002520259
+    second: blue_armor_sprite_sheet_19
+  - first:
+      213: 9207118460032579646
+    second: blue_armor_sprite_sheet_20
+  - first:
+      213: -8439954756395894584
+    second: blue_armor_sprite_sheet_21
+  - first:
+      213: -2880192627987361861
+    second: blue_armor_sprite_sheet_22
+  - first:
+      213: -8254089822214841257
+    second: blue_armor_sprite_sheet_23
+  - first:
+      213: -2704629988213080103
+    second: blue_armor_sprite_sheet_24
+  - first:
+      213: 7793571363759440579
+    second: blue_armor_sprite_sheet_25
+  - first:
+      213: -6945665299240922273
+    second: blue_armor_sprite_sheet_26
+  - first:
+      213: -7815791394353962163
+    second: blue_armor_sprite_sheet_27
+  - first:
+      213: 4266575732559662370
+    second: blue_armor_sprite_sheet_28
+  - first:
+      213: -2370072621032087156
+    second: blue_armor_sprite_sheet_29
+  - first:
+      213: 6010171849791971399
+    second: blue_armor_sprite_sheet_30
+  - first:
+      213: 5312766107614530322
+    second: blue_armor_sprite_sheet_31
+  - first:
+      213: 3883137334274517474
+    second: blue_armor_sprite_sheet_32
+  - first:
+      213: -5111733462687438438
+    second: blue_armor_sprite_sheet_33
+  - first:
+      213: -3090830918409372847
+    second: blue_armor_sprite_sheet_34
+  - first:
+      213: 6283916230585482770
+    second: blue_armor_sprite_sheet_35
+  - first:
+      213: 4796794718904012677
+    second: blue_armor_sprite_sheet_36
+  - first:
+      213: -3926699717003012236
+    second: blue_armor_sprite_sheet_37
+  - first:
+      213: -504689613245029080
+    second: blue_armor_sprite_sheet_38
+  - first:
+      213: 7886901011607336405
+    second: blue_armor_sprite_sheet_39
+  - first:
+      213: -3371759251401260701
+    second: blue_armor_sprite_sheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 672
+        width: 323
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7df57c7ffb14030800000000000000
+      internalID: 3477271458229508028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 745
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0880b21efa9d510800000000000000
+      internalID: 1574482926367178996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 734
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee750dd40ddcf080800000000000000
+      internalID: -9152197329765957909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 692
+        width: 317
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e36d4c34fcaed5a0800000000000000
+      internalID: -6494563447637974043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 337
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8051150024336d70800000000000000
+      internalID: 9035122589563965582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 757
+        width: 327
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f85d68f326ab270800000000000000
+      internalID: 8267028090976571275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 723
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1338a8ac2bbe3b40800000000000000
+      internalID: 5421976801883206427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 672
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb626fd7fdd2bf40800000000000000
+      internalID: 5742896531525233652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 716
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb728dd200ec4140800000000000000
+      internalID: 4705382013606198246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 250
+        width: 333
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae707c9049523de0800000000000000
+      internalID: -1354922403847700824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 663
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6575a4e757542e0800000000000000
+      internalID: -2142176862471235866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 366
+        width: 312
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce8014e35cb27eb0800000000000000
+      internalID: -4723505990663631166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 264
+        width: 387
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164c5c93b7ee83170800000000000000
+      internalID: 8158532937999303777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69b8aef32e46560800000000000000
+      internalID: 7306213259647620847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 655
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25155f5651e351a10800000000000000
+      internalID: 1879476681122861394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 260
+        width: 359
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c1df894b50649d0800000000000000
+      internalID: -2790536645890466704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 607
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a29c4374031de0800000000000000
+      internalID: -1363741368910698232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 436
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4702fc9561a491120800000000000000
+      internalID: 2385018937525870708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 390
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c631e0a084de218f0800000000000000
+      internalID: -571133309060508820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 395
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23d82cd7d380b40800000000000000
+      internalID: 5406638963002520259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 368
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38fe2f357146cf70800000000000000
+      internalID: 9207118460032579646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 364
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c877a8add14fda80800000000000000
+      internalID: -8439954756395894584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 31
+        width: 337
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4d1490108708d0800000000000000
+      internalID: -2880192627987361861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c97bae905937d80800000000000000
+      internalID: -8254089822214841257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 313
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb0bffa59377ad0800000000000000
+      internalID: -2704629988213080103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c98cfcd3582c60800000000000000
+      internalID: 7793571363759440579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 287
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53dcf5c53a0c9f90800000000000000
+      internalID: -6945665299240922273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 297
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d432afcf22bb88390800000000000000
+      internalID: -7815791394353962163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 294
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4582060ce53b30800000000000000
+      internalID: 4266575732559662370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 274
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81e083228fcb1fd0800000000000000
+      internalID: -2370072621032087156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 281
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74027e1447b686350800000000000000
+      internalID: 6010171849791971399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 283
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b491b60acbab940800000000000000
+      internalID: 5312766107614530322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e96d7fe4dca3e530800000000000000
+      internalID: 3883137334274517474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 258
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a902bf797f09b0800000000000000
+      internalID: -5111733462687438438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 18
+        width: 319
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3a67d7a92b15d0800000000000000
+      internalID: -3090830918409372847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 21
+        width: 375
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21efb52a484f43750800000000000000
+      internalID: 6283916230585482770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 52
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f4eb0e163a19240800000000000000
+      internalID: 4796794718904012677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4779864796f8189c0800000000000000
+      internalID: -3926699717003012236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82563b0887bfef8f0800000000000000
+      internalID: -504689613245029080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53687fea6e37d60800000000000000
+      internalID: 7886901011607336405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_armor_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361471043da1531d0800000000000000
+      internalID: -3371759251401260701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue_armor_sprite_sheet_0: 3477271458229508028
+      blue_armor_sprite_sheet_1: 1574482926367178996
+      blue_armor_sprite_sheet_10: -2142176862471235866
+      blue_armor_sprite_sheet_11: -4723505990663631166
+      blue_armor_sprite_sheet_12: 8158532937999303777
+      blue_armor_sprite_sheet_13: 7306213259647620847
+      blue_armor_sprite_sheet_14: 1879476681122861394
+      blue_armor_sprite_sheet_15: -2790536645890466704
+      blue_armor_sprite_sheet_16: -1363741368910698232
+      blue_armor_sprite_sheet_17: 2385018937525870708
+      blue_armor_sprite_sheet_18: -571133309060508820
+      blue_armor_sprite_sheet_19: 5406638963002520259
+      blue_armor_sprite_sheet_2: -9152197329765957909
+      blue_armor_sprite_sheet_20: 9207118460032579646
+      blue_armor_sprite_sheet_21: -8439954756395894584
+      blue_armor_sprite_sheet_22: -2880192627987361861
+      blue_armor_sprite_sheet_23: -8254089822214841257
+      blue_armor_sprite_sheet_24: -2704629988213080103
+      blue_armor_sprite_sheet_25: 7793571363759440579
+      blue_armor_sprite_sheet_26: -6945665299240922273
+      blue_armor_sprite_sheet_27: -7815791394353962163
+      blue_armor_sprite_sheet_28: 4266575732559662370
+      blue_armor_sprite_sheet_29: -2370072621032087156
+      blue_armor_sprite_sheet_3: -6494563447637974043
+      blue_armor_sprite_sheet_30: 6010171849791971399
+      blue_armor_sprite_sheet_31: 5312766107614530322
+      blue_armor_sprite_sheet_32: 3883137334274517474
+      blue_armor_sprite_sheet_33: -5111733462687438438
+      blue_armor_sprite_sheet_34: -3090830918409372847
+      blue_armor_sprite_sheet_35: 6283916230585482770
+      blue_armor_sprite_sheet_36: 4796794718904012677
+      blue_armor_sprite_sheet_37: -3926699717003012236
+      blue_armor_sprite_sheet_38: -504689613245029080
+      blue_armor_sprite_sheet_39: 7886901011607336405
+      blue_armor_sprite_sheet_4: 9035122589563965582
+      blue_armor_sprite_sheet_40: -3371759251401260701
+      blue_armor_sprite_sheet_5: 8267028090976571275
+      blue_armor_sprite_sheet_6: 5421976801883206427
+      blue_armor_sprite_sheet_7: 5742896531525233652
+      blue_armor_sprite_sheet_8: 4705382013606198246
+      blue_armor_sprite_sheet_9: -1354922403847700824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

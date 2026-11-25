@@ -1,0 +1,47 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Sistema
+.DS_Store
+__pycache__/
+
+# Capturas de prueba
+/Captures/
+
+# Descargas originales (las fuentes están en SOURCES-LICENSES-CREDITS.md)
+/ThirdParty/**/*.zip
+/ThirdParty/**/*.wav
+/ThirdParty/**/*.ogg
+
+# Configuración local de asistentes
+.claude/
+.codex/
+CLAUDE.md
+AGENTS.md
+.mcp.json
